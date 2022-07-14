@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_advanced_clean_architecture_with_mvvm/presentation/color_manager.dart';
+import 'package:flutter_advanced_clean_architecture_with_mvvm/presentation/resources/color_manager.dart';
 
 import 'font_manager.dart';
 
